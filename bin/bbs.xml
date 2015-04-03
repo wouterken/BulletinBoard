@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- This file contains all users credentials, topics and messages currently in the bulletin board. -->
+<!-- All data is preserved between sessions -->
+
+<bbs>
+
+  <!-- To create users, you must login as administrator. There is a default hard-coded admin. user Username: "admin" password : "admin" -->
+  <!-- No passwords are stored in this file, only a hash derived from them.-->
+  <users>
+  </users>
+
+  <!-- Topics -->
+  <topics>
+  	<topic id="652779" name="news">
+  	</topic>
+  	<topic id="516763" name="current events">
+  	</topic>
+  </topics>
+</bbs>
